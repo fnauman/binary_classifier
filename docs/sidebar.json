@@ -1,6 +1,7 @@
 {
   "binary_classifier": {
     "Overview": "/",
-    "Card": "card.html"
+    "Card": "card.html",
+    "Deck": "deck.html"
   }
 }
