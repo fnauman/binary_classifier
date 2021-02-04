@@ -8,6 +8,6 @@ modules = ["card.py"]
 
 doc_url = "https://fnauman.github.io/binary_classifier/"
 
-git_url = "https://github.com/fnauman/binary_classifier/tree/{branch}/"
+git_url = "https://github.com/fnauman/binary_classifier/tree/master/"
 
 def custom_doc_links(name): return None
